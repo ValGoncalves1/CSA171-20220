@@ -1,0 +1,7 @@
+C:\Users\valgs\source\repos\Lista1Ex2\Lista1Ex2\bin\Debug\Lista1Ex2.exe.config
+C:\Users\valgs\source\repos\Lista1Ex2\Lista1Ex2\bin\Debug\Lista1Ex2.exe
+C:\Users\valgs\source\repos\Lista1Ex2\Lista1Ex2\bin\Debug\Lista1Ex2.pdb
+C:\Users\valgs\source\repos\Lista1Ex2\Lista1Ex2\obj\Debug\Lista1Ex2.csproj.AssemblyReference.cache
+C:\Users\valgs\source\repos\Lista1Ex2\Lista1Ex2\obj\Debug\Lista1Ex2.csproj.CoreCompileInputs.cache
+C:\Users\valgs\source\repos\Lista1Ex2\Lista1Ex2\obj\Debug\Lista1Ex2.exe
+C:\Users\valgs\source\repos\Lista1Ex2\Lista1Ex2\obj\Debug\Lista1Ex2.pdb
